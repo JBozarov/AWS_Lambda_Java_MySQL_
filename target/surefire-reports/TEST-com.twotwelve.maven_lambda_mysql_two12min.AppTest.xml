@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.twotwelve.maven_lambda_mysql_two12min.AppTest" time="0.002" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="14.0.2+12-46"/>
+    <property name="sun.boot.library.path" value="C:\Users\jbozarov\Desktop\softwares\sts-4.8.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932\jre\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\jbozarov\Desktop\sts_workspace\maven-lambda-mysql-two12min"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CA"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\jbozarov\Desktop\sts_workspace\maven-lambda-mysql-two12min"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="14.0.2+12-46"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\jbozarov\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Users\jbozarov\Desktop\sts_workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7852320710426463230.tmp"/>
+    <property name="jansi.force" value="true"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\jbozarov\Desktop\softwares\sts-4.8.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/jbozarov/Desktop/softwares/sts-4.8.0.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932/jre/bin/server;C:/Users/jbozarov/Desktop/softwares/sts-4.8.0.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932/jre/bin;C:\Python39\Scripts\;C:\Python39\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Windows\CCM;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Program Files\Amazon\AWSCLIV2\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\jbozarov\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-11.0.8\bin;;C:\Users\jbozarov\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jbozarov\AppData\Roaming\npm;C:\Users\jbozarov\Desktop\softwares\sts-4.8.0.RELEASE;;."/>
+    <property name="jansi.passthrough" value="true"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="58.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\jbozarov"/>
+    <property name="user.timezone" value="America/Winnipeg"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="14"/>
+    <property name="user.name" value="jbozarov"/>
+    <property name="java.class.path" value="C:\Users\jbozarov\Desktop\softwares\sts-4.8.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_1.16.0.20200610-1735\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="14"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B package shade:shade -Dstyle.color=always"/>
+    <property name="java.home" value="C:\Users\jbozarov\Desktop\softwares\sts-4.8.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_14.0.2.v20200815-0932\jre"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="14.0.2"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\jbozarov\Desktop\sts_workspace\maven-lambda-mysql-two12min\EMBEDDED"/>
+    <property name="style.color" value="always"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2020-07-14"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.twotwelve.maven_lambda_mysql_two12min.AppTest" name="shouldAnswerWithTrue" time="0.002"/>
+</testsuite>
